@@ -1,0 +1,12 @@
+Profit,Annualized Return,Max Drawdown,Stock,Model,Category
+18032.86,2.13,48.15,FM,GARCH_pred,TS
+11626.98,1.41,25.4,FM,KNN,ML
+11626.98,1.41,25.4,FM,AdaBoost,ML
+11626.98,1.41,25.4,FM,CatBoost,ML
+11626.98,1.41,25.4,FM,XGBoost,ML
+11626.98,1.41,25.4,FM,RandomForest,ML
+18032.86,2.13,48.15,FM,GARCH_pred+RandomForest,Fusion
+18032.86,2.13,48.15,FM,GARCH_pred+XGBoost,Fusion
+18032.86,2.13,48.15,FM,GARCH_pred+CatBoost,Fusion
+18032.86,2.13,48.15,FM,GARCH_pred+AdaBoost,Fusion
+18032.86,2.13,48.15,FM,GARCH_pred+KNN,Fusion
